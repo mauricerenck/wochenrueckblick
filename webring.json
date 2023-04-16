@@ -1,0 +1,80 @@
+{
+  "title": "Wochenrückblick",
+  "description": "Jede Woche rekapitulieren diese Menschen ihre Woche und schreiben darüber im eigenen Blog.",
+  "image": "https://weekly.mauricerenck.de/assets/logo.jpg",
+  "url": "https://maurice-renck.de/de/buchclub",
+  "admins": [
+    {
+      "title": "Maurice Renck",
+      "url": "https://maurice-renck.de/",
+      "feed": "https://maurice-renck.de/de/feed.rss"
+    }
+  ],
+  "members": [
+    {
+      "title": "Aßbach",
+      "url": "https://assbach.de/blog/tag:wochenrueckblick",
+      "feed": "https://assbach.de/blog.rss"
+    },
+    {
+      "title": "Johannes",
+      "url": "https://blog.cptpudding.de/tag/wochenrueckblick/",
+      "feed": "https://blog.cptpudding.de/feed"
+    },
+        {
+      "title": "Björn",
+      "url": "https://bln41.win/blog/",
+      "feed": "https://bln41.win/blog/rss.xml"
+    },
+    {
+      "title": "Teymur",
+      "url": "https://teymthebeast.com/blog",
+      "feed": "https://teymthebeast.com/blog?format=rss"
+    },
+    {
+      "title": "Manuela",
+      "url": "https://pixelgraphix.de/notes/tag:Sammelsurium",
+      "feed": "https://pixelgraphix.de/feed.rss"
+    },
+    {
+      "title": "Falko",
+      "url": "https://falko.zurell.de/",
+      "feed": "https://falko.zurell.de/feed/"
+    },
+    {
+      "title": "Jana",
+      "url": "https://kaesedurst.ch/category/wochenrueckblick/",
+      "feed": "https://kaesedurst.ch/feed/"
+    },
+    {
+      "title": "Ralph",
+      "url": "https://plotzerblog.de/",
+      "feed": "https://plotzerblog.de/feed/"
+    },
+    {
+      "title": "Thomas",
+      "url": "https://thopex.de/",
+      "feed": "https://thopex.de/feed/"
+    },
+    {
+      "title": "JB",
+      "url": "https://happybuddha1975.de/",
+      "feed": "https://happybuddha1975.de/feed/"
+    },
+    {
+      "title": "Mel",
+      "url": "https://mevil.de/category/wochenrueckblick/",
+      "feed": "https://mevil.de/category/wochenrueckblick/feed/"
+    },
+    {
+      "title": "John",
+      "url": "https://johns-casa.de/category/was-bisher-geschah/",
+      "feed": "https://johns-casa.de/category/was-bisher-geschah/feed/"
+    },
+    {
+      "title": "Maurice",
+      "url": "https://maurice-renck.de/de/tags/tag:wochenr%C3%BCckblick",
+      "feed": "https://maurice-renck.de/de/feed.rss"
+    }
+  ]
+}
